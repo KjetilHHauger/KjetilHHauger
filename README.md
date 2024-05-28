@@ -1,4 +1,4 @@
-### Hi there, I'm [Kjetil] 👋
+### Hi there, I'm Kjetil 👋
 
 #### I'm a Front-End Developer in Training at Noroff Vocational School, Oslo, Norway
 
