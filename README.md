@@ -25,9 +25,9 @@ I have a diverse background in work and education, ranging from kindergarten tea
 ### Projects
 Below are some of the projects I've worked on during my training. Feel free to check them out:
 
-1. **Project Name** - A brief description of what the project does and technologies used. [View Project](#)
-2. **Project Name** - A brief description of what the project does and technologies used. [View Project](#)
-3. **Project Name** - A brief description of what the project does and technologies used. [View Project](#)
+1. **FED1-EXAME-KJETIL-H-H** - Making a blog, Brickify is a blog about lego sets. [View Project]([#](https://github.com/KjetilHHauger/FED1-EXAME-KJETIL-H-H))
+2. **Square Eyes** - Make a movie website, for buying movies. [View Project]([#](https://github.com/KjetilHHauger/squareyes-js))
+3. **Science Museum** - Scienc museum website for kids. [View Project]([#](https://github.com/KjetilHHauger/science_museum))
 
 *More projects will be added as I progress in my front-end journey.*
 
